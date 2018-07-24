@@ -69,7 +69,7 @@ Download
 Using git:
 
 ```
-git clone -b OJ_VERSION git://github.com/hit-moodle/moodle-local_onlinejudge.git onlinejudge
+git clone -b OJ_3.0 git://github.com/hit-moodle/moodle-local_onlinejudge.git onlinejudge
 ```
 *OJ_VERSION* is obtained from the available branches.
 
